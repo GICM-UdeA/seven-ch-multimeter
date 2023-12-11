@@ -1,7 +1,7 @@
 # 7-channel multi-tester
 This simple device features an Ohm-meter, a diode-meter and a voltmeter with the (+) and (-) leads switched to several pin positions of a built-in DB-15 and HIROSE HR10A-10R-12P(73) connectors. The switching is done automatically by implementing seven internal relays controlled by a ESP32 device.
 
-If you need to update the firmware of this device, please download the folder "DAFNE_TEST_v1-3". You need to have installed the Arduino IDE 1.8 or superior, downloadable from: arduino.cc. After that install the ESP32 compatibility for the Arduino IDE, following the next steps:
+If you need to update the firmware of this device, please download the folder "DAFNE_TEST_v1-3". You need to have installed the Arduino IDE 1.8 or superior, downloadable from: www.arduino.cc. After that, install the ESP32 compatibility for the Arduino IDE, following the next steps:
 
 Open Arduino Preferences:
 Open the Arduino IDE, go to the "File" menu, and select "Preferences."
